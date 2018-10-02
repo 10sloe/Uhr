@@ -1,6 +1,6 @@
 # Skizze - Uhr
 
-10. KLasse
+10. Klasse
 
 ## Themen
 * if/else
